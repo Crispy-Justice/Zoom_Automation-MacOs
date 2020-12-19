@@ -1,8 +1,6 @@
 # Zoom_Automation-MacOs
 A python script which logs into **Zoom** classes automatically.
 
-[![Project Maintenance][maintenance-shield]](https://github.com/Crispy-Justice)
-
 <img src = "zoom_automation_banner.png">
 
 ### Features
