@@ -29,7 +29,7 @@ A python script which logs into **Zoom** classes automatically.
 <img src = "configurations/zoom_audio.png">
 
 ##### Set the Video Settings as follows :
-<img src = "configurations/zoom_vid.png">
+<img src = "configurations/zoom_video.png">
 
 # How to run the program :
 ##### Clone this repository and unzip it
